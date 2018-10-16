@@ -1,0 +1,11 @@
+# Xcode
+.DS_Store
+*.pbxuser
+!default.pbxuser
+**/xcuserdata/
+#CocoaPods
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
