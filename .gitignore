@@ -9,3 +9,7 @@ xcuserdata
 profile
 *.moved-aside
 DerivedData
+./xcuserstate
+.xcuserstate
+.swp
+
